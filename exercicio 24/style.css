@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+.cinza{
+    background-color: gray;
+}
+
+h1{
+    max-width: 400px;
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+    border: 1px solid black;
+}
+table{
+    width: 400px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td{
+    border: 1px solid black;
+    padding: 8px;
+}
